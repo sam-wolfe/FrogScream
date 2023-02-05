@@ -61,3 +61,8 @@ crashlytics-build.properties
 # ignore everything in the Assets/ImortedAssets folder
 /[Aa]ssets/[Ii]mportedAssets/*
 /[Aa]ssets/[Ii]mportedAssets.meta
+
+/[Aa]ssets/BrokenVector*
+/[Aa]ssets/SimpleNaturePack*
+/[Aa]ssets/Stylized*
+/[Aa]ssets/Occa*
