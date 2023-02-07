@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7c1548a-e5de-45e2-b27e-2149f1cd8e03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FrogScream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FrogScream/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/swamp.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/swamp.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
-    </list>
+    <list default="true" id="d7c1548a-e5de-45e2-b27e-2149f1cd8e03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675435811826</updated>
       <workItem from="1675435816771" duration="3866000" />
-      <workItem from="1675572939340" duration="13010000" />
+      <workItem from="1675572939340" duration="13253000" />
     </task>
     <servers />
   </component>
